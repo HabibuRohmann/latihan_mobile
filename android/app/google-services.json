@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1049918042288",
+    "project_id": "latihan-20312045",
+    "storage_bucket": "latihan-20312045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049918042288:android:6f7d3e2ea2de327d2e8b75",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44Eydj50Q7s1AI1bQ5gnzXp1Keh8xkvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049918042288:android:a00a267f5aaa3d2e2e8b75",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44Eydj50Q7s1AI1bQ5gnzXp1Keh8xkvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049918042288:android:303e59467a165cb02e8b75",
+        "android_client_info": {
+          "package_name": "com.habib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44Eydj50Q7s1AI1bQ5gnzXp1Keh8xkvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
